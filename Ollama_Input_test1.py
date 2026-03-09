@@ -1,8 +1,7 @@
 import ollama
-import os
 
 # No API keys required for local inference!
-model_name = "gemma3:4b"
+model_name = "barnaby-model"
 
 with open("lore.txt", "r") as f:
     game_lore = f.read()
