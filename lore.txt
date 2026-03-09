@@ -1,0 +1,56 @@
+Mining Skill:
+	Ore Level Requirement:
+		Copper: 1
+		Iron: 15
+		Coal: 30
+		Mithril: 55
+		Adamantite: 70
+		Runite: 85
+	Pickaxe Equip Level Requirement:
+		Bronze: 1
+		Iron: 2
+		Steel: 5
+		Mithril: 20
+		Adamantite: 40
+		Runite: 60
+
+Fishing Skill:
+	Catch Level Requirement (and needed equipment):
+		Shrimp: 1 (net)
+		Anchovie: 15 (net)
+		Monkfish: 60 (net)
+		Pike: 25 (rod)
+		Anglerfish: 70 (rod)
+		Eel: 80 (rod)
+		Tuna: 30 (harpoon)
+		Swordfish: 60 (harpoon)
+		Shark: 90 (harpoon)
+
+Thieving Skill:
+	Pickpocket NPC Method Level Requirement:
+		Townsperson: 1
+		Guard: 20
+		Warrior: 40
+		Gnome: 60
+		Elf: 80
+		Vampire: 99
+	Store Stall Theft Method Level Requirement:
+		Cake: 5
+		Silk: 25
+		Ore: 45
+		Gem: 65
+		Weapon: 85
+		Cannonball: 95
+	Chest Picklocking Method Level Requirement:
+		House: 17
+		Jungle: 27
+		Estate: 37
+		Castle: 47
+		Crypt: 57
+		Raid: 67
+
+Updates:
+    The Great Update: A new island called 'Whispering Reach' has appeared to the north. 
+The island is only accessible by players who have reached Level 20. 
+Rumor has it that a legendary Kraken-skin armor set can be found in the island's sunken ruins.
+		
